@@ -3,6 +3,6 @@ package app;
 public class Task01 {
     public static void main(String[] args) {
 
-        System.out.println("Код задачи 1");
+        System.out.println("Код задачи 1-");
     }
 }
